@@ -13,7 +13,7 @@ A collection of demos and examples showcasing various Go frameworks and librarie
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/go-examples.git
+    git clone https://github.com/gods/go-examples.git
     cd go-examples
     ```
 
