@@ -13,7 +13,7 @@ A collection of demos and examples showcasing various Go frameworks and librarie
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/gods/go-examples.git
+    git clone https://github.com/gods4/go-examples.git
     cd go-examples
     ```
 
@@ -33,4 +33,4 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
